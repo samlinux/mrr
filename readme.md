@@ -1,8 +1,8 @@
 #MRR (monthly recurring revenue)
 
-This project calculates to MRR for a given period. 
+This project calculates to MRR (monthly recurring revenue) for a given period. 
 
-The result is an array with a monthly-raster and all subscriptions which belongs to the current month. With a loop you can get all result like described above
+The result is an array with a monthly-raster and all subscriptions which belongs to the current month. With a loop you can get all result like described above.
 
 ```
 _.forEach(mrr, function(month){
