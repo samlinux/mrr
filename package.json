@@ -1,0 +1,15 @@
+{
+  "name": "mrr",
+  "version": "1.0.0",
+  "description": "Calculates the MRR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roland Bole <rbole@samlinux.at>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.3",
+    "moment": "^2.17.1"
+  }
+}
